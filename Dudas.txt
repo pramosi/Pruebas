@@ -1,0 +1,4 @@
+En la segunda línea, para el primer lugar (REAL MURCIA CF SAD)
+el código del lugar es 00001, muy diferente a los demás lugares
+¿Eso está bien o no tiene importancia?
+
